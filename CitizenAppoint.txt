@@ -1,0 +1,4 @@
+Abdullah,N123456,10/12/2021,1100,AstraZeneca,Bukit Jalil
+john,701102107788,02/12/2021,0900,Pfizer,Kuala Lumpur
+chow,001122147788,01/12/2021,1300,AstraZeneca,Shah Alam
+siti,950414107788,02/12/2021,1100,CanSinoBio,Bukit Jalil

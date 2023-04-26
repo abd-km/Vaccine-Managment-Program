@@ -1,0 +1,6 @@
+1001,Pfizer,Kuala Lumpur,12,01/12/2021
+1002,Sinovac,Shah Alam,45,21/12/2021
+1003,Sputnik V,Sungai Buloh,4,12/12/2021
+1004,Pfizer,Shah Alam,51,10/12/2021
+1005,AstraZeneca,Subang Jaya,8,08/12/2021
+1006,AstraZeneca,Shah Alam,124,23/12/2021,Shah Alam
